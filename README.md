@@ -1,6 +1,6 @@
 # Meme Picker - Pumpkin's Purrfect Meme Generator
 
-This project is a simple meme picker that lets users select a cat meme based on their current emotion, with an option to show only animated GIFs. ( Just For Fun 😉 )
+This project is a simple meme picker that lets users select a cat meme based on their current emotion, with an option to show only animated GIFs. ( Have Fun 😉 )
 
 ## Features
 
